@@ -22,5 +22,4 @@ data:
   - postgres-decoderbufs
 
   labels:
-  - eln
   - c9s
